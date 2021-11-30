@@ -68,7 +68,7 @@ export const Account: FC<AccountProps> = ({
         <AccountRow>
           <Tippy content={<Tooltip>{status.text}</Tooltip>}>
             <AccountNetwork>
-              <span>Goerli alpha</span>
+              <span>Bitpactum Devnet</span>
               <AccountStatusIndicator status={status.code} />
             </AccountNetwork>
           </Tippy>

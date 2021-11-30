@@ -13,9 +13,17 @@
   </a>
 </p>
 
--->
 
----
+--->
+
+<h2>NB!</h2>
+This is a version built to support StarkNet's DevNet using [@Bitpactum fork of StarkNet.js](https://github.com/bitpactum/starknet.js)
+
+```bash
+cd packages/extension
+yarn build
+Load unpacked Chrome extension from packages/extension/dist 
+```
 
 <h2>🌈 Table of contents</h2>
 
